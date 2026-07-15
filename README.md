@@ -130,7 +130,7 @@ My work includes:
 
 ## Current Direction
 
-I am currently focused on strengthening the connection between **software engineering and applied artificial intelligence**—building systems that are scalable, maintainable, commercially relevant, and capable of using AI to solve real operational problems.
+I am currently focused on strengthening the connection between **software engineering and applied artificial intelligence** building systems that are scalable, maintainable, commercially relevant, and capable of using AI to solve real operational problems.
 
 ---
 
